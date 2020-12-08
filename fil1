@@ -1,4 +1,7 @@
 this is my first file
 this is my feature1
+<<<<<<< HEAD
 this is my feature2 add
 feature2
+=======
+>>>>>>> bc4babf (my second commit)
